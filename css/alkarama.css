@@ -1,0 +1,139 @@
+.navbar{
+    position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem; }
+  .navbar .container,
+  .navbar .container-fluid, .navbar .container-sm, .navbar .container-md, .navbar .container-lg, .navbar .container-xl {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+}
+.nav-link {
+    display: block;
+    padding: 60px;
+    color: #020303;
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+.title{
+    padding-left: 10px;
+    padding-top: 40px;
+
+}
+.nav-item{
+    padding-left: 50px;
+}
+.row1{
+    width: 100%;
+}
+.row2{
+    width: 100%;
+}
+.row{
+    width: 100%;
+}
+.row5{
+    width: 100%;
+}
+.part1{
+    float: left;
+    width: 50%;
+}
+.part2{
+    float: left;
+    width: 50%;
+}
+.part3{
+    float: left;
+    width: 37%;
+}
+.part4{
+    float: left;
+    width: 37%;
+}
+.part5{
+    width:37%;
+    float: left;
+    width: 400px;
+}
+.part6{
+    float: left;
+    width: 35%;
+}
+.part6{
+    float: left;
+    width: 35%;
+}
+.part7{
+    float: left;
+    width: 35%;
+}
+.part8{
+    width: 33%;
+    float: left;
+}
+.part9{
+    float: left;
+    width: 33%;
+}
+.part10{
+    float:left;
+    width: 34%;
+}
+.whatis{
+    margin-top: 150px;
+    margin-left: 60px;
+    font-weight: 30px;
+}
+.service{
+
+    height: 400px;
+    width:1700px;
+    margin-left: 150px;
+    background:rgb(240, 243, 243);
+
+    margin-bottom: 40px;
+    
+}
+.teaching{
+    padding-top: 100px;
+    padding-left: 90px;
+}
+.moreabout{
+    height: 500px;
+    width:100%px;
+    background:#585757;
+
+    
+    
+}
+.dock-panel-wrap{
+    position:relative;
+    position:absolute;
+    bottom:0px;
+
+
+}
+.address{
+    color: beige;
+    padding-left: 40px;
+    
+    
+}
+.title{
+    color: beige;
+    padding-left: 40px;
+}
+.addresses
+{
+    color: beige;
+    padding-bottom: 1px;
+    padding-top: 20px;
+}
