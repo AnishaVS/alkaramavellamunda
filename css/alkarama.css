@@ -96,7 +96,11 @@
 .service{
 
     height: 400px;
+<<<<<<< HEAD
     width:1400px;
+=======
+    width:1500px;
+>>>>>>> db3395ea0db3d4d6961bd897c9d9d12a250e6338
     margin-left: 150px;
     background:rgb(240, 243, 243);
 
